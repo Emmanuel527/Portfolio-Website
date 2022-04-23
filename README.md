@@ -1,5 +1,4 @@
 
-![REACT JS PORTFOLIO](https://user-images.githubusercontent.com/65420004/157770783-3b3eb26c-9542-4a6e-bc45-5689589e85e8.png)
 
 ## Available Scripts
 
