@@ -11,16 +11,18 @@ const About = () => {
             </p>
           </div>
           <div></div>
+        </div>
+        <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
+          <div className='sm:text-right text-4xl font-bold'>
+            <p >Nice to meet you. This is a little bit about me.</p>
           </div>
-          <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
-            <div className='sm:text-right text-4xl font-bold'>
-              <p>Hi. I'm Emmanuel, nice to meet you. Please take a look around.</p>
-            </div>
-            <div>
-              <p>I am curious about anything that excites me. I love to solve problems.
-                 I can also create websites and web applications.</p>  
-            </div>
+          <div>
+            <p>I love to create websites, web applications, and solve problems.</p>
+            <p >
+            I’m focused on anything that sparks my curiosity. Other things I do besides coding include playing the guitar, listening to music and thinking about the beautiful wonders of life every once in a while.
+            </p>
           </div>
+        </div>
       </div>
     </div>
   );
