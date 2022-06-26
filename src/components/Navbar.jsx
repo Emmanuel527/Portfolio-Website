@@ -40,6 +40,12 @@ const Navbar = () => {
         </li>
 
         <li>
+          <a href = "https://github.com/Emmanuel527" target = "__blank">
+            GitHub
+          </a>
+        </li>
+
+        <li>
           <Link to='skills' smooth={true} duration={500}>
             Skills
           </Link>
@@ -50,6 +56,8 @@ const Navbar = () => {
             Contact
           </Link>
         </li>
+
+        
       </ul>
 
       {/* Hamburger */}
