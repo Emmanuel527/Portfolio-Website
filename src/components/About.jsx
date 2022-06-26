@@ -19,7 +19,7 @@ const About = () => {
           <div>
             <p>I love to create websites, web applications, and solve problems.</p>
             <p >
-            I’m focused on anything that sparks my curiosity. Other things I do besides coding include playing the guitar, listening to music and thinking about the beautiful wonders of life every once in a while.
+            I’m focused on anything that sparks my curiosity. Other things I do besides coding include playing the guitar, making generative art and thinking about the beautiful wonders of life every once in a while.
             </p>
           </div>
         </div>
