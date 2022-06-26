@@ -11,12 +11,12 @@ const Home = () => {
           Emmanuel Arowoselu.
         </h1>
         <h2 className='text-4xl sm:text-7xl font-bold text-[#8892b0]'>
-          I'm a front-end Developer.
+          I'm a front-end Software Developer.
         </h2>
         
         <div>
           <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600'>
-            View What I have done
+           <a a href="https://www.mediafire.com/file/3yvqmaxldckoji9/Resume_%25281%2529.pdf/file"> Download my Resume </a>
             <span className='group-hover:rotate-90 duration-300'>
               <HiArrowNarrowRight className='ml-3 ' />
             </span>
