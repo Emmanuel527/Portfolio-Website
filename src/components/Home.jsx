@@ -16,7 +16,7 @@ const Home = () => {
         
         <div>
           <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600'>
-           <a a href="https://www.mediafire.com/file/3yvqmaxldckoji9/Resume_%25281%2529.pdf/file"> Download my Resume </a>
+           <a a href="https://www.mediafire.com/file/3yvqmaxldckoji9/Resume_%25281%2529.pdf/file" target = "__blank"> Download my Resume </a>
             <span className='group-hover:rotate-90 duration-300'>
               <HiArrowNarrowRight className='ml-3 ' />
             </span>
